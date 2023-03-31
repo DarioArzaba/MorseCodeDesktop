@@ -1,8 +1,6 @@
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="img/icon.ico" alt="Logo" width="100">
-  </a>
+  <img src="img/icon.ico" alt="Logo" width="100">
 
   <h3 align="center">Morse Code Learning Desktop Application</h3>
 
