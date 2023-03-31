@@ -66,16 +66,6 @@ with dpg.window(tag="Primary Window"):
 	dpg.add_spacer()
 	dpg.add_image("morseCodeTag")
 
-
-
-
-    
-
-
-
-
-
-
 dpg.setup_dearpygui()
 dpg.show_viewport()
 dpg.set_primary_window("Primary Window", True)
